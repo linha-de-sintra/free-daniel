@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          O Daniel encontra-se encarcerado no estabelecimento prisional de Caxias!
+          O Daniel encontra-se encarcerado no Centro Juvenil da Campanhã!
         </p>
 
         <div className={styles.grid}>
@@ -40,7 +40,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://www.paypal.com/paypalme/asdosflippers"
+            href="https://www.paypal.com/paypalme/d4n1l3dm4tr1x"
             className={styles.card}
           >
             <h2>Doações &rarr;</h2>
