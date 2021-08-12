@@ -21,12 +21,12 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
+          <a href="https://freedaniel.pt/historia" className={styles.card}>
             <h2>Situação &rarr;</h2>
             <p>Vem conhecer a situação em que se encontra o Daniel</p>
           </a>
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
+          <a href="https://freedaniel.pt/sobre" className={styles.card}>
             <h2>Sobre o Daniel &rarr;</h2>
             <p>História do Daniel</p>
           </a>
