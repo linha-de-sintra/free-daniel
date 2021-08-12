@@ -57,9 +57,9 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{' '}
+          Propriedade da Tropa da linha de sintra{' '}
           <span className={styles.logo}>
-            <Image src="/bandeira_v2.png" alt="Vercel Logo" width={72} height={16} />
+            <Image src="/bandeira_v2.png" alt="Vercel Logo" width={88} height={50} />
           </span>
         </a>
       </footer>
