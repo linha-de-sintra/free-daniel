@@ -8,7 +8,7 @@ export default function Home() {
       <Head>
         <title>Libertem o Daniel!</title>
         <meta name="description" content="Junta-te à causa" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/dani.bmp" />
       </Head>
 
       <main className={styles.main}>
@@ -32,7 +32,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://github.com/vercel/next.js/tree/master/examples"
+            href="https://discord.gg/zdyx547s"
             className={styles.card}
           >
             <h2>Discord &rarr;</h2>
@@ -59,7 +59,7 @@ export default function Home() {
         >
           Propriedade da Tropa da linha de sintra{' '}
           <span className={styles.logo}>
-            <Image src="/bandeira_v2.png" alt="Vercel Logo" width={133} height={75} />
+            <Image src="/bandeira_v2.png" alt="bandeira da tropa" width={133} height={75} />
           </span>
         </a>
       </footer>
