@@ -53,7 +53,7 @@ export default function Home() {
 
       <footer className={styles.footer}>
         <a
-          href="https://www.youtube.com/channel/UCd3p_H-3jjPNc-sd_M2hf6w"
+          href="https://www.youtube.com/channel/UCqK08_f7qp9xcaVyLleOvgg"
           target="_blank"
           rel="noopener noreferrer"
         >
