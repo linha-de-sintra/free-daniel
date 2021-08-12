@@ -1,7 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
-import footer from '../comps/footer'
 
 export default function Home() {
     return(
@@ -22,6 +21,20 @@ export default function Home() {
             <Image src="/merda.jpg" alt="graffiti nas instalações" width={868} height={1156} />
             <footer />
             </span>
-</>
+            
+
+      <footer className={styles.footer}>
+        <a
+          href="https://www.youtube.com/channel/UCqK08_f7qp9xcaVyLleOvgg"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Propriedade da Tropa da linha de sintra{' '}
+          <span className={styles.logo}>
+            <Image src="/bandeira_v2.png" alt="bandeira da tropa" width={133} height={75} />
+          </span>
+        </a>
+      </footer>
+    </>
   )
 }
