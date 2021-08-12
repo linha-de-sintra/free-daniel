@@ -6,8 +6,8 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Create Next App</title>
-        <meta name="description" content="niggerice" />
+        <title>Libertem o Daniel!</title>
+        <meta name="description" content="Junta-te à causa" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -53,13 +53,13 @@ export default function Home() {
 
       <footer className={styles.footer}>
         <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+          href="https://www.youtube.com/channel/UCd3p_H-3jjPNc-sd_M2hf6w"
           target="_blank"
           rel="noopener noreferrer"
         >
           Powered by{' '}
           <span className={styles.logo}>
-            <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
+            <Image src="/bandeira_v2.png" alt="Vercel Logo" width={72} height={16} />
           </span>
         </a>
       </footer>
